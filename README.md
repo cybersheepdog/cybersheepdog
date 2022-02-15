@@ -1,6 +1,6 @@
 # About Me
 
-Cybersecurity Enthusiast, Practitioner and Researcher.  You can find me on [LinkedIn](https://www.linkedin.com/in/jeremywiedner/) and [Twitter](https://twitter.com/jeremywiedner). I have also startd a blog you can find [here](https://cybersheepdog.wordpress.com/).  There is no content on it yet so stay tuned.
+Cybersecurity Enthusiast, Practitioner and Researcher.  You can find me on [LinkedIn](https://www.linkedin.com/in/jeremywiedner/) and [Twitter](https://twitter.com/jeremywiedner). I have also startd a blog you can find [here](https://cybersheepdog.wordpress.com/).  
 
 ## Interests
 - Spending time with my Family
