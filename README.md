@@ -20,6 +20,7 @@ Cybersecurity Enthusiast, Practitioner and Researcher.  You can find me on [Link
 - [eLearn Security Digital Forensic Professional](https://legacy.elearnsecurity.com/course/digital_forensics_professional/) - [eDFP](https://verified.elearnsecurity.com/certificates/ed239cc8-d11e-4657-bd9b-10f9a86ca2db)
 
 
+If you like what I produce, then please consider [buying me a coffee](https://www.buymeacoffee.com/cybersheepdog) to help me stay up late and create more. Thank you.
 
 <!---
 cybersheepdog/cybersheepdog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
