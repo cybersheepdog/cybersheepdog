@@ -1,6 +1,8 @@
 # About Me
 
-Cybersecurity Enthusiast, Practitioner and Researcher.  You can find me on [LinkedIn](https://www.linkedin.com/in/jeremywiedner/) and [Twitter](https://twitter.com/jeremywiedner). I have also startd a blog you can find [here](https://cybersheepdog.wordpress.com/).  
+Cybersecurity Enthusiast, Practitioner and Researcher.  You can find me on [LinkedIn](https://www.linkedin.com/in/jeremywiedner/) and [Twitter](https://twitter.com/jeremywiedner). I have also startd a blog you can find [here](https://cybersheepdog.wordpress.com/).  I also created a [Cyb3rSheepDog Discord community](https://discord.gg/R9rc3cWMxK) with channels for some of my repositories and discussion on various topics in information security.  
+
+If you like what I produce, then please consider [buying me a coffee](https://www.buymeacoffee.com/cybersheepdog) to help me stay up late and create more. Thank you.
 
 ## Interests
 - Spending time with my Family
@@ -19,8 +21,6 @@ Cybersecurity Enthusiast, Practitioner and Researcher.  You can find me on [Link
 - [GIAC Certified Intrusion Analyst](https://www.giac.org/certification/certified-intrusion-analyst-gcia) - [GCIA](https://www.youracclaim.com/badges/5a596279-9457-4d4c-afbf-7964b826aad7)
 - [eLearn Security Digital Forensic Professional](https://legacy.elearnsecurity.com/course/digital_forensics_professional/) - [eDFP](https://verified.elearnsecurity.com/certificates/ed239cc8-d11e-4657-bd9b-10f9a86ca2db)
 
-
-If you like what I produce, then please consider [buying me a coffee](https://www.buymeacoffee.com/cybersheepdog) to help me stay up late and create more. Thank you.
 
 <!---
 cybersheepdog/cybersheepdog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
