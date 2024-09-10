@@ -1,6 +1,6 @@
 # About Me
 
-Cybersecurity Enthusiast, Practitioner and Researcher.  You can find me on [LinkedIn](https://www.linkedin.com/in/jeremywiedner/) and [Twitter](https://twitter.com/jeremywiedner). I have also startd a blog you can find [here](https://cybersheepdog.wordpress.com/).  I also created a [Cyb3rSheepDog Discord community](https://discord.gg/R9rc3cWMxK) with channels for some of my repositories and discussion on various topics in information security.  
+Cybersecurity Enthusiast, Practitioner and Researcher.  You can find me on [LinkedIn](https://www.linkedin.com/in/jeremywiedner/) and [Twitter](https://twitter.com/jeremywiedner). I have also startd a blog you can find [here](https://cybersheepdog.wordpress.com/). 
 
 If you like what I produce, then please consider [buying me a coffee](https://www.buymeacoffee.com/cybersheepdog) to help me stay up late and create more. Thank you.
 
